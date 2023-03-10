@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeWork", "HomeWork\HomeWo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeWork_Inheritance", "HomeWorkInheritance\HomeWork_Inheritance.csproj", "{B46CB3EA-C501-463A-B0E5-3B8CB06C731D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWorkOperatorOverloading", "HomeWorkOperatorOverloading\HomeWorkOperatorOverloading.csproj", "{4F91D12D-7C5A-44B8-9609-16C23E126381}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeWorkOperatorOverloading", "HomeWorkOperatorOverloading\HomeWorkOperatorOverloading.csproj", "{4F91D12D-7C5A-44B8-9609-16C23E126381}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork_Interface", "HomeWork_Interface\HomeWork_Interface.csproj", "{43856660-DE6C-465A-A7F8-A46A4156D7D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{4F91D12D-7C5A-44B8-9609-16C23E126381}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F91D12D-7C5A-44B8-9609-16C23E126381}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F91D12D-7C5A-44B8-9609-16C23E126381}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43856660-DE6C-465A-A7F8-A46A4156D7D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43856660-DE6C-465A-A7F8-A46A4156D7D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43856660-DE6C-465A-A7F8-A46A4156D7D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43856660-DE6C-465A-A7F8-A46A4156D7D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
